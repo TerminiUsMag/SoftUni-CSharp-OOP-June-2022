@@ -5,11 +5,13 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00.Demo", "00.Demo\00.Demo.csproj", "{0F145D34-0247-4A4B-93D3-CDFFBD3AA36C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm", "Farm\Farm.csproj", "{3BA7E40D-86AA-496D-B3C3-FA16D8856E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm", "Farm\Farm.csproj", "{3BA7E40D-86AA-496D-B3C3-FA16D8856E12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{BEBE932C-8979-4CA5-BAE7-68F1288C3668}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{BEBE932C-8979-4CA5-BAE7-68F1288C3668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{351C8970-BEA0-433A-8E66-BACE7178F4F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomStack", "CustomStack\CustomStack.csproj", "{351C8970-BEA0-433A-8E66-BACE7178F4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual", "Virtual\Virtual.csproj", "{122BEF02-CDD2-49E8-8225-2484E0B2B71C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{351C8970-BEA0-433A-8E66-BACE7178F4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{351C8970-BEA0-433A-8E66-BACE7178F4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{351C8970-BEA0-433A-8E66-BACE7178F4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122BEF02-CDD2-49E8-8225-2484E0B2B71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122BEF02-CDD2-49E8-8225-2484E0B2B71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122BEF02-CDD2-49E8-8225-2484E0B2B71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122BEF02-CDD2-49E8-8225-2484E0B2B71C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

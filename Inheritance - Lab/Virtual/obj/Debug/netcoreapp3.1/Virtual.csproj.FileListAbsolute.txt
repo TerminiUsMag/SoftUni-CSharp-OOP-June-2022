@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\bin\Debug\netcoreapp3.1\Virtual.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\bin\Debug\netcoreapp3.1\Virtual.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\bin\Debug\netcoreapp3.1\Virtual.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\bin\Debug\netcoreapp3.1\Virtual.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\bin\Debug\netcoreapp3.1\Virtual.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\bin\Debug\netcoreapp3.1\Virtual.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\Virtual\obj\Debug\netcoreapp3.1\Virtual.genruntimeconfig.cache

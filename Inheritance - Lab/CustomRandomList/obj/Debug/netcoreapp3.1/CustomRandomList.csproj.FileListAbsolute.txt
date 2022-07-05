@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache

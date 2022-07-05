@@ -9,6 +9,7 @@ namespace Farm
             var newAnimal = new Animal();
             var newDog = new Dog();
             var newPuppy = new Puppy();
+            var newCat = new Cat();
 
             newAnimal.Eat();
             newDog.Bark();
@@ -16,6 +17,9 @@ namespace Farm
             //newAnimal.Bark();
             newPuppy.Weep();
             newPuppy.Eat();
+            newCat.Eat();
+            newCat.Meow();
+            newDog.Bark();
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\01. Shapes.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\01. Shapes.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\01. Shapes.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\01. Shapes.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\01. Shapes.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\01. Shapes.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\01. Shapes.genruntimeconfig.cache

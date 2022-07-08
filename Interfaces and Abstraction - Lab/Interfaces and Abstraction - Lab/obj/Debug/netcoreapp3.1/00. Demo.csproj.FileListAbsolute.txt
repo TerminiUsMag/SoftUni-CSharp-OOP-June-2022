@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\bin\Debug\netcoreapp3.1\00. Demo.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\bin\Debug\netcoreapp3.1\00. Demo.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\bin\Debug\netcoreapp3.1\00. Demo.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\bin\Debug\netcoreapp3.1\00. Demo.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\bin\Debug\netcoreapp3.1\00. Demo.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\bin\Debug\netcoreapp3.1\00. Demo.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab\obj\Debug\netcoreapp3.1\00. Demo.genruntimeconfig.cache

@@ -18,7 +18,6 @@ namespace Cars
         public string Model { get; private set; }
 
         public string Color { get; private set; }
-
         public override string ToString()
         {
             return $"{this.Color} Tesla {this.Model} with {this.Battery} Batteries";

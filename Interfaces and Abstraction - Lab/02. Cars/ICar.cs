@@ -6,13 +6,13 @@ namespace Cars
 {
     public interface ICar
     {
-        public string Model { get; }
-        public string Color { get; }     
-        public string Start()
+        string Model { get; }
+        string Color { get; }
+        string Start()
         {
             return "Engine start";
         }
-        public string Stop()
+        string Stop()
         {
             return "Breaaak!";
         }

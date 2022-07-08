@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00. Demo", "Interfaces and 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Shapes", "Shapes\01. Shapes.csproj", "{63610AA9-265D-4944-9876-5C86518C82E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Cars", "02. Cars\02. Cars.csproj", "{0EB88C3D-7A19-4D82-940F-81B56D2BAB57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{63610AA9-265D-4944-9876-5C86518C82E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63610AA9-265D-4944-9876-5C86518C82E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63610AA9-265D-4944-9876-5C86518C82E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB88C3D-7A19-4D82-940F-81B56D2BAB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB88C3D-7A19-4D82-940F-81B56D2BAB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB88C3D-7A19-4D82-940F-81B56D2BAB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB88C3D-7A19-4D82-940F-81B56D2BAB57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\02. Cars.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\02. Cars.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\02. Cars.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\02. Cars.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\02. Cars.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\02. Cars.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\02. Cars.genruntimeconfig.cache

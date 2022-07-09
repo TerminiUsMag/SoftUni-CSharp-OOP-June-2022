@@ -6,7 +6,9 @@ namespace PlayersAndMonsters
 {
     public class MuseElf : Elf
     {
-        public MuseElf(string username, int level) : base(username, level)
+        private const double DefaultHealth = 150;
+        private const double DefaultDamage = 30;
+        public MuseElf(string username, int level, double health = DefaultHealth, double damage = DefaultDamage) : base(username, level, health, damage)
         {
         }
     }

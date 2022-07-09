@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

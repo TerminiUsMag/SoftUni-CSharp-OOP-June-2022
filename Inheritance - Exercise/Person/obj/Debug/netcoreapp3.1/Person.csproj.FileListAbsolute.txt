@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

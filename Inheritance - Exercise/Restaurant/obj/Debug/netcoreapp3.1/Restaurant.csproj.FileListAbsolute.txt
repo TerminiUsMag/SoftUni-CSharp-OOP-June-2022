@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

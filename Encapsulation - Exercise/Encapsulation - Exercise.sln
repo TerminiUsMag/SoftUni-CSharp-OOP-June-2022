@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassBoxData", "01. Class Box Data\ClassBoxData.csproj", "{C43676D6-7275-4555-BA42-811EBA6C835A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{9ACE8C50-4A25-430C-A374-E10C084DDC82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{9ACE8C50-4A25-430C-A374-E10C084DDC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "FootballTeamGenerator\FootballTeamGenerator.csproj", "{BCD2B349-1471-4079-AFEA-C082A96435F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9ACE8C50-4A25-430C-A374-E10C084DDC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ACE8C50-4A25-430C-A374-E10C084DDC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ACE8C50-4A25-430C-A374-E10C084DDC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD2B349-1471-4079-AFEA-C082A96435F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD2B349-1471-4079-AFEA-C082A96435F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD2B349-1471-4079-AFEA-C082A96435F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD2B349-1471-4079-AFEA-C082A96435F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

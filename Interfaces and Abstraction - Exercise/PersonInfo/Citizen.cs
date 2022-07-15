@@ -4,14 +4,18 @@ using System.Text;
 
 namespace PersonInfo
 {
-    public class Citizen : IPerson
+    public class Citizen : IPerson, IIdentifiable
     {
         private int age;
         private string name;
-        public Citizen(string name, int age)
+        private string id;
+        private string birthday;
+        public Citizen(string name, int age, string id, string birthdate)
         {
             this.Name = name;
             this.Age = age;
+            this.Id = id;
+            this.Birthdate = birthdate;
         }
         public int Age
         {
@@ -23,6 +27,17 @@ namespace PersonInfo
         {
             get { return this.name; }
             set { this.name = value; }
+        }
+
+        public string Id
+        {
+            get { return this.id; }
+            set { this.id = value; }
+        }
+        public string Birthdate
+        {
+            get { return this.birthday; }
+            set { this.birthday = value; }
         }
     }
 }

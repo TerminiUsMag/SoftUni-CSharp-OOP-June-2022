@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

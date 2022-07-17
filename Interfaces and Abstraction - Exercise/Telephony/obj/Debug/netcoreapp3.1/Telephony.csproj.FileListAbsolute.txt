@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

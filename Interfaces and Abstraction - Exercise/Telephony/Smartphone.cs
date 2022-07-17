@@ -10,13 +10,28 @@ namespace Telephony
         {
             for (int i = 0; i < url.Length; i++)
             {
-
+                char currCh = url[i];
+                if (char.IsDigit(currCh))
+                {
+                    Console.WriteLine("Invalid URL!");
+                    return;
+                }
             }
+                Console.WriteLine($"Browsing: {url}!");
         }
 
-        public void Call()
+        public void Call(string number)
         {
-            throw new NotImplementedException();
+            for(int i =0; i < number.Length; i++)
+            {
+                char currCh = number[i];
+                if (!char.IsDigit(currCh))
+                {
+                    Console.WriteLine("Invalid number!");
+                    return;
+                }
+            }
+            Console.WriteLine($"Calling... {number}");
         }
     }
 }

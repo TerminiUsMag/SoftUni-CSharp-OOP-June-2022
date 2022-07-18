@@ -9,9 +9,9 @@ namespace BorderControl
     {
         public string ID { get; set; }
 
-        string GetId()
-        {
-            return this.ID;
-        }
+        //string GetId()
+        //{
+        //    return this.ID;
+        //}
     }
 }

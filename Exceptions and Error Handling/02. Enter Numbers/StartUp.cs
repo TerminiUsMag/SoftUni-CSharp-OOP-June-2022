@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace _02._Enter_Numbers
 {
-    internal class Program
+    internal class StartUp
     {
         static void Main(string[] args)
         {

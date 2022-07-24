@@ -10,14 +10,14 @@ namespace Vehicles
             var fuelQuantity = double.Parse(input[1]);
             var fuelConsPerKm = double.Parse(input[2]);
             var tankCapacity = double.Parse(input[3]);
-            var car = new Car(fuelQuantity, fuelConsPerKm,tankCapacity);
+            var car = new Car(fuelQuantity, fuelConsPerKm, tankCapacity);
 
             input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
             fuelQuantity = double.Parse(input[1]);
             fuelConsPerKm = double.Parse(input[2]);
             tankCapacity = double.Parse(input[3]);
 
-            var truck = new Truck(fuelQuantity, fuelConsPerKm,tankCapacity);
+            var truck = new Truck(fuelQuantity, fuelConsPerKm, tankCapacity);
 
             input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
             fuelQuantity = double.Parse(input[1]);
@@ -49,8 +49,11 @@ namespace Vehicles
                 }
 
                 var variable = double.Parse(command[2]);
-
-                if (action == "Drive")
+                if (action == "DriveEmpty")
+                {
+                    bus.DriveEmpty(variable);
+                }
+                else if (action == "Drive")
                 {
                     vehicle.Drive(variable);
                 }
@@ -61,6 +64,7 @@ namespace Vehicles
             }
             Console.WriteLine($"Car: {car.FuelQuantity:f2}");
             Console.WriteLine($"Truck: {truck.FuelQuantity:f2}");
+            Console.WriteLine($"Bus: {bus.FuelQuantity:f2}");
         }
     }
 }

@@ -13,13 +13,13 @@ namespace Vehicles
         public Vehicle(double fuelQuantity, double fuelConsumptionPerKm, double tankCapacity)
         {
             this.TankCapacity = tankCapacity;
-            if (tankCapacity > fuelQuantity)
+            if (TankCapacity < fuelQuantity)
                 this.FuelQuantity = 0;
             else
                 this.fuelQuantity = fuelQuantity;
             this.FuelConsumptionPerKm = fuelConsumptionPerKm;
         }
-        public double FuelQuantity
+        public virtual double FuelQuantity
         {
             get
             {
@@ -28,8 +28,8 @@ namespace Vehicles
             set
             {
                 var currentQuantity = this.FuelQuantity;
-                if (currentQuantity + value > this.TankCapacity)
-                    Console.WriteLine($"Cannot fit {value} fuel in the tank");
+                if (value > this.TankCapacity)
+                    throw new ArgumentException("Cannot fit {0} fuel in the tank");
                 else
                     fuelQuantity = value;
             }
@@ -62,7 +62,14 @@ namespace Vehicles
                 Console.WriteLine("Fuel must be a positive number");
                 return;
             }
-            FuelQuantity += liters;
+            try
+            {
+                FuelQuantity += liters;
+            }
+            catch (ArgumentException ae)
+            {
+                Console.WriteLine(String.Format(ae.Message, liters));
+            }
         }
     }
 }

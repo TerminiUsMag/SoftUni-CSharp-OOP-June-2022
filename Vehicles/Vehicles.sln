@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclesExtension", "VehiclesExtension\VehiclesExtension.csproj", "{D628A28C-3FA9-48FD-8D5E-34B1618E20B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{D4128700-07EB-44F3-98ED-C1B398496593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D628A28C-3FA9-48FD-8D5E-34B1618E20B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D628A28C-3FA9-48FD-8D5E-34B1618E20B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D628A28C-3FA9-48FD-8D5E-34B1618E20B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4128700-07EB-44F3-98ED-C1B398496593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4128700-07EB-44F3-98ED-C1B398496593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4128700-07EB-44F3-98ED-C1B398496593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4128700-07EB-44F3-98ED-C1B398496593}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

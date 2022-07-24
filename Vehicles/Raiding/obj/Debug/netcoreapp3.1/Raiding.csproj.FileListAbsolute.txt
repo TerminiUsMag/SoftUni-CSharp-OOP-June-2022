@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\Vehicles\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

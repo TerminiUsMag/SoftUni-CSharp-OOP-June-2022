@@ -6,15 +6,25 @@ namespace Vehicles
     {
         static void Main(string[] args)
         {
-            var carInput = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            var fuelQuantity = double.Parse(carInput[1]);
-            var fuelConsPerKm = double.Parse(carInput[2]);
-            var car = new Car(fuelQuantity, fuelConsPerKm);
+            var input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            var fuelQuantity = double.Parse(input[1]);
+            var fuelConsPerKm = double.Parse(input[2]);
+            var tankCapacity = double.Parse(input[3]);
+            var car = new Car(fuelQuantity, fuelConsPerKm,tankCapacity);
 
-            var truckInput = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            fuelQuantity = double.Parse(truckInput[1]);
-            fuelConsPerKm = double.Parse(truckInput[2]);
-            var truck = new Truck(fuelQuantity, fuelConsPerKm);
+            input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            fuelQuantity = double.Parse(input[1]);
+            fuelConsPerKm = double.Parse(input[2]);
+            tankCapacity = double.Parse(input[3]);
+
+            var truck = new Truck(fuelQuantity, fuelConsPerKm,tankCapacity);
+
+            input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            fuelQuantity = double.Parse(input[1]);
+            fuelConsPerKm = double.Parse(input[2]);
+            tankCapacity = double.Parse(input[3]);
+
+            var bus = new Bus(fuelQuantity, fuelConsPerKm, tankCapacity);
 
             var n = int.Parse(Console.ReadLine());
 
@@ -28,6 +38,10 @@ namespace Vehicles
                 if (vehicleType == "Car")
                 {
                     vehicle = car;
+                }
+                else if (vehicleType == "Bus")
+                {
+                    vehicle = bus;
                 }
                 else
                 {

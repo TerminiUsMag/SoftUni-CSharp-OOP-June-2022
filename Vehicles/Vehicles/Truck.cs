@@ -7,7 +7,7 @@ namespace Vehicles
     public class Truck : Vehicle
     {
         private const double AirConditionerFuelConsumption = 1.6;
-        public Truck(double fuelQuantity, double fuelConsumptionPerKm) : base(fuelQuantity, fuelConsumptionPerKm)
+        public Truck(double fuelQuantity, double fuelConsumptionPerKm, double tankCapacity) : base(fuelQuantity, fuelConsumptionPerKm, tankCapacity)
         {
         }
         public override double FuelConsumptionPerKm

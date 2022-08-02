@@ -35,20 +35,22 @@
 //{
 //    Console.WriteLine(++i);
 //} while (i<10);
-try
-{
-    Console.WriteLine("1");
-    Abc();
-    Console.WriteLine("2");
-}
-catch (Exception)
-{
-    Console.WriteLine("E");
-}
-finally
-{
-    Console.WriteLine("after all");
-}
+
+
+//try
+//{
+//    Console.WriteLine("1");
+//    Abc();
+//    Console.WriteLine("2");
+//}
+//catch (Exception)
+//{
+//    Console.WriteLine("E");
+//}
+//finally
+//{
+//    Console.WriteLine("after all");
+//}
 
 
 void Abc()
@@ -57,10 +59,11 @@ void Abc()
     {
         Console.WriteLine("A");
         throw new Exception();
+        Console.WriteLine("B");
     }
     finally
     {
-        Console.WriteLine("B");
+        Console.WriteLine("C");
     }
 }
 int[] UniqueElements(int[] arr1, int[] arr2)

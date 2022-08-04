@@ -6,5 +6,10 @@ namespace WildFarm.Food
 {
     public class Seeds : Food
     {
+        public Seeds(int quantity = 1)
+            :base(quantity)
+        {
+            Name = "Seeds";
+        }
     }
 }

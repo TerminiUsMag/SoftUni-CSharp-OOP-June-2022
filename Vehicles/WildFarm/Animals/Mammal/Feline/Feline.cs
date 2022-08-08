@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WildFarm.Animals.Mammals.Feline
+namespace WildFarm.Animals.Mammal.Feline
 {
     public abstract class Feline : Mammal
     {
@@ -13,6 +13,9 @@ namespace WildFarm.Animals.Mammals.Feline
             get { return breed; }
             set { breed = value; }
         }
-
+        public override string ToString()
+        {
+            return $"{this.GetType().Name} [{this.Name}, {this.Breed}, {this.Weight}, {this.LivingRegion}, {this.FoodEaten}]";
+        }
     }
 }

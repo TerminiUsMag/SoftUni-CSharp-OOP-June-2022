@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WildFarm.Animals.Birds
+namespace WildFarm.Animals.Bird
 {
     public class Hen : Bird
     {

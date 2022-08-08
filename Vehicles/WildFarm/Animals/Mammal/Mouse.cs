@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WildFarm.Animals.Mammals
+namespace WildFarm.Animals.Mammal
 {
     public class Mouse : Mammal
     {

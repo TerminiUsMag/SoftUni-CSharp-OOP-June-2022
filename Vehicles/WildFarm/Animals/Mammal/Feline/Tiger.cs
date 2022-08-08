@@ -2,20 +2,21 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WildFarm.Animals.Mammals
+namespace WildFarm.Animals.Mammal.Feline
 {
-    public class Dog : Mammal
+    public class Tiger : Feline
     {
-        private const double WeightGainPerPiece = 0.4;
-        public Dog(string name, double weight, string livingRegion)
+        private const double WeightGainPerPiece = 1.00;
+        public Tiger(string name, double weight, string livingRegion, string breed)
             :this()
         {
-            //•	Mice and Dogs - "{Type} {Name} {Weight} {LivingRegion}"
+            //•	Felines - "{Type} {Name} {Weight} {LivingRegion} {Breed}"
             this.Name = name;
             this.Weight = weight;
             this.LivingRegion = livingRegion;
+            this.Breed = breed;
         }
-        public Dog()
+        public Tiger()
         {
             foodTypes.Add(new Food.Meat());
         }
@@ -25,9 +26,7 @@ namespace WildFarm.Animals.Mammals
         }
         public override string AskForFood()
         {
-            return "Woof!";
+            return "ROAR!!!";
         }
-
-        
     }
 }

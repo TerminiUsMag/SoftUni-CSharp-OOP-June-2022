@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WildFarm.Animals.Mammals.Feline
+namespace WildFarm.Animals.Mammal.Feline
 {
     public class Cat : Feline
     {

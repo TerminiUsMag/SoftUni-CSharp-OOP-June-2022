@@ -34,7 +34,7 @@ namespace WildFarm.Animals
             set { name = value; }
         }
 
-        public void EatFood(Food.Food foodtype, double weightGain)
+        protected void EatFood(Food.Food foodtype, double weightGain)
         {
             //if (foodtype is Food.Vegetable || foodtype is Food.Fruit)
             for (int i = 0; i < foodTypes.Count; i++)

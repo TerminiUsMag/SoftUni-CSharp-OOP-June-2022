@@ -9,12 +9,12 @@ namespace Heroes.Models.Weapons
     {
         private string name;
         private int durability;
-        private int damage;
-        protected Weapon(string name, int durability,int damage)
+        //protected int damage;
+        protected Weapon(string name, int durability)//int damage)
         {
             this.Name = name;
             this.Durability = durability;
-            this.damage = damage;
+            //this.damage = damage;
         }
         public string Name
         {
@@ -38,7 +38,7 @@ namespace Heroes.Models.Weapons
             {
                 return durability;
             }
-            private set
+            protected set
             {
                 if (value < 0)
                 {
@@ -47,15 +47,16 @@ namespace Heroes.Models.Weapons
                 durability = value;
             }
         }
-        public int DoDamage()
-        {
-            this.Durability--;
-            if (this.Durability == 0)
-            {
-                return 0;
-            }
-            return this.damage;
-        }
+        //public int DoDamage()
+        //{
+        //    this.Durability--;
+        //    if (this.Durability == 0)
+        //    {
+        //        return 0;
+        //    }
+        //    return this.damage;
+        //}
+        public abstract int DoDamage();
         //public virtual int DoDamage()
         //{
         //    if (DamageWeapon())
@@ -67,7 +68,7 @@ namespace Heroes.Models.Weapons
         //}
         //private bool DamageWeapon()
         //{
-        //        this.Durability--;
+        //    this.Durability--;
         //    if (this.Durability == 0)
         //        return false;
         //    else

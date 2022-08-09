@@ -113,7 +113,7 @@ namespace Heroes.Core
                 else
                     sb.AppendLine($"--Weapon: {hero.Weapon.Name}");
             }
-            return sb.ToString();
+            return sb.ToString().Trim();
         }
 
         public string StartBattle()
